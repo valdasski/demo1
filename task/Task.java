@@ -1,3 +1,7 @@
+/**
+ * Represents a single task item.
+ * This class serves as a data model (POJO) for tasks, including properties like ID, title, description, and completion status.
+ */
 package task;
 
 public class Task {

@@ -1,3 +1,8 @@
+/**
+ * Service class for managing Task entities.
+ * Provides in-memory CRUD (Create, Read, Update, Delete) operations to store,
+ * retrieve, and manipulate Task objects.
+ */
 package task;
 
 import java.util.ArrayList;
